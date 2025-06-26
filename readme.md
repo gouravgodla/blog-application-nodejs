@@ -49,8 +49,8 @@ A responsive and stylish blog application built using **Node.js**, **Express.js*
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/blog-app.git
-   cd blog-app
+   [git clone https://github.com/your-username/blog-app.git
+   cd blog-app](https://github.com/gouravgodla/blog-application-nodejs.git)
    ```
 2. **Install Dependencies**
 
