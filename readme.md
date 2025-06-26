@@ -12,8 +12,6 @@ A responsive and stylish blog application built using **Node.js**, **Express.js*
 
 ## 📸 Screenshots
 
-> Add your own screenshots in the `/screenshots` folder and update this section.
-
 | Home Page                   | Create Post                   | Edit Post                   | Responsive Layout                 |
 | --------------------------- | ----------------------------- | --------------------------- | --------------------------------- |
 | ![](./screenshots/home.png) | ![](./screenshots/create.png) | ![](./screenshots/edit.png) | ![](./screenshots/responsive.png) |
@@ -37,13 +35,13 @@ A responsive and stylish blog application built using **Node.js**, **Express.js*
 - **Express.js** — Web framework for Node.
 - **EJS** — Templating engine for rendering dynamic HTML.
 - **HTML/CSS** — For structure and styling.
-- _(Optional)_ Bootstrap/Flexbox for responsive layout.
+- **Bootstrap/Flexbox** — For responsive layout.
 
 ---
 
 ## 📂 Project Structure
 
----
+## ![](./screenshots/project_structure.png)
 
 ## 🛠️ Setup Instructions
 
