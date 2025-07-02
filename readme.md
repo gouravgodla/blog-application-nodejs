@@ -58,8 +58,19 @@ A responsive and stylish blog application built using **Node.js**, **Express.js*
 3. **Run the Server**
    ```bash
    node app.js
+   or
+   npm run dev
    ```
 4. **Visit the App**
    ```bash
    http://localhost:3000
    ```
+5. Admin go to admin folder
+
+```bash
+For Dashboard First create
+- admin username
+- password
+
+
+```
