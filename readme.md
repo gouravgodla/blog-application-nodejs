@@ -2,11 +2,7 @@
 
 A responsive and stylish blog application built using **Node.js**, **Express.js**, and **EJS**. This project allows users to **create**, **view**, **edit**, and **delete** blog posts. It is built as a **Capstone Project** to showcase practical backend and frontend skills without using any persistent database.
 
----
 
-## 🚀 Live Demo
-
-> [🔗 Click here](http://localhost:3000) — or run locally using the instructions below.
 
 ---
 
